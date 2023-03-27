@@ -56,6 +56,7 @@ jobs:
         - monaco
         - purley
         - rtd1296
+        - rtd1619b
         - v1000
 
     runs-on: ubuntu-latest

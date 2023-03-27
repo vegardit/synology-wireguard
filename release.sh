@@ -14,6 +14,7 @@ ARCHS=(
     "kvmx64"
     "monaco"
     "rtd1296"
+    "rtd1619b"
     "x64"
 )
 
