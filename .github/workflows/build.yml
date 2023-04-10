@@ -66,6 +66,7 @@ jobs:
         - kvmx64
         - monaco
         - purley
+        - r1000
         - rtd1296
         - rtd1619b
         - v1000
