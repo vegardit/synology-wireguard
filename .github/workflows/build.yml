@@ -107,7 +107,7 @@ jobs:
         - purley
         - r1000
         - rtd1296
-        #- rtd1619b  # compat.h:41:2: error: #error "WireGuard has been merged into Linux >= 5.6 and therefore this compatibility module is no longer required."
+        - rtd1619b
         - v1000
 
     steps:
